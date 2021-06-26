@@ -15,3 +15,7 @@ To get into OpenShift, you must have a great knowledge of below topics:
 
 
 ### OpenShift Architecture: 
+
+<p align="center">
+  <img width="900" height="500" src="utils/open.jpeg">
+</p>
